@@ -1,17 +1,20 @@
 {
-  "name": "@signatures-pub/signatures-verify",
-  "version": "1.0.0",
-  "description": "Solidity smart contract library for verifying signature",
-  "main": "Signature.sol",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pixel8labs/signatures-verify.git"
-  },
-  "keywords": [],
-  "author": "Pixel8Labs",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pixel8labs/signatures-verify/issues"
-  },
-  "homepage": "https://github.com/pixel8labs/signatures-verify#readme"
+    "name": "@signatures-pub/signatures-verify",
+    "version": "1.0.0",
+    "description": "Solidity smart contract library for verifying signature",
+    "main": "Signature.sol",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pixel8labs/signatures-verify.git"
+    },
+    "keywords": [],
+    "author": "Pixel8Labs",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pixel8labs/signatures-verify/issues"
+    },
+    "homepage": "https://github.com/pixel8labs/signatures-verify#readme",
+    "publishConfig": {
+        "access": "public"
+    }
 }
