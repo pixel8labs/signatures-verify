@@ -7,7 +7,11 @@
         "type": "git",
         "url": "git+https://github.com/pixel8labs/signatures-verify.git"
     },
-    "keywords": [],
+    "keywords": [
+        "ethereum",
+        "solidity",
+        "signature"
+    ],
     "author": "Pixel8Labs",
     "license": "ISC",
     "bugs": {
