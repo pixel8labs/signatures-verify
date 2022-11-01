@@ -1,6 +1,6 @@
 {
     "name": "@signatures-pub/signatures-verify",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Solidity smart contract library for verifying signature",
     "main": "Signature.sol",
     "repository": {
