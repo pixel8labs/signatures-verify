@@ -1,6 +1,6 @@
 <h2>
     <span>@signatures-pub/signatures-verify</span>
-    <span><a href="https://www.npmjs.com/package/@signatures-pub/signatures-verify"><img src="https://badgen.net/npm/v/@signatures-pub/signatures-verify?color=black&labelColor=black"></a></span>
+    <span><a href="https://www.npmjs.com/package/@signatures-pub/signatures-verify"><img src="https://badgen.net/npm/v/@sigpub/signatures-verify?color=black&labelColor=black"></a></span>
 </h2>
 Solidity smart contract library for verifying signature
 
