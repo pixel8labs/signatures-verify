@@ -7,7 +7,7 @@ Solidity smart contract library for verifying signature
 ### Installation
 Use the following command to install `@signatures-pub/signatures-verify`:
 ```sh
-npm install @signatures-pub/signatures-verify
+npm install @sigpub/signatures-verify
 ```
 
 ### Usage
@@ -16,7 +16,7 @@ Once installed, you can use the contracts in the library by importing them:
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
-import "@signatures-pub/signatures-verify/Signature.sol";
+import "@sigpub/signatures-verify/Signature.sol";
 
 contract MyNFT is ERC721 {
     address private signerAddress;
